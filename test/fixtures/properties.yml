@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  description: MyString
+  bouquet: 1
+  cout_d_acquisition: 1
+  valeur_estimee: 1
+  cout_annuel: 1
+  interet_mensuel: 1
+
+two:
+  location: MyString
+  description: MyString
+  bouquet: 1
+  cout_d_acquisition: 1
+  valeur_estimee: 1
+  cout_annuel: 1
+  interet_mensuel: 1
